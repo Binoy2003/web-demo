@@ -12,3 +12,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Binoy2003/web-demo.git
 git push -u origin main
+
+new repo , delete git file before git push
